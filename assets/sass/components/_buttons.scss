@@ -1,0 +1,28 @@
+.black-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #353448;
+    border-radius: 2.4rem;
+    padding: 0 2rem;
+    height: 4.8rem;
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.87rem;
+    color: $COLOR_WHITE;
+}
+
+.transparent-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: none;
+    border-radius: 2.4rem;
+    border: 1px solid rgba(53, 52, 72, 0.236809);
+    padding: 0 4rem;
+    height: 4.8rem;
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.87rem;
+    color: #353448;
+}

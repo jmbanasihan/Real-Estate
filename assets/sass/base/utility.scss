@@ -1,0 +1,54 @@
+//font-color
+.white-text {
+    color: $COLOR_WHITE;
+}
+
+.black-text {
+    color: $BLACK_TEXT;
+}
+
+.orange-text {
+    color: $ORANGE-TEXT;
+}
+
+//background-color
+.white-bg {
+    background: $COLOR_WHITE;
+}
+
+.black-bg {
+    background:#353448;
+}
+
+.orange-bg {
+    background: $ORANGE-TEXT;
+}
+
+//box-shadow 
+.shadow {
+    box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.0751529);
+}
+//links
+.socmed-links {
+    width: 4.8rem;
+    height: 4.8rem;
+    background: #353448;
+    a {
+        display: inline-block;
+        color: $COLOR_WHITE;
+        font-size: 1.6rem;
+    }
+}
+
+.socmed-link-twitter {
+    background: $ORANGE-TEXT;
+}
+
+.socmed-link-ig {
+    background: $COLOR_WHITE;
+}
+
+//margin
+.margin-bottom-19 {
+    margin-bottom: 1.9rem;
+}
