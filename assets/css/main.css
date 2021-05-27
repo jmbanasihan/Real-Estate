@@ -1769,12 +1769,14 @@ h1::selection {
 .reputation__pic,
 .blog__pic,
 .newsletter__pic {
+  width: 100%;
   max-width: 22rem;
 }
 
 .cofounder__pic, .home__pic,
 .about__pic {
-  max-width: 20rem;
+  width: 100%;
+  max-width: 15rem;
 }
 
 .service__description-text,
