@@ -1763,9 +1763,6 @@ h1::selection {
   background: #97d2fb;
 }
 
-.home__pic,
-.cofounder__pic,
-.about__pic,
 .property__pic,
 .other__pic,
 .service__pic,
@@ -1773,6 +1770,11 @@ h1::selection {
 .blog__pic,
 .newsletter__pic {
   max-width: 22rem;
+}
+
+.cofounder__pic, .home__pic,
+.about__pic {
+  max-width: 20rem;
 }
 
 .service__description-text,
