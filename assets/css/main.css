@@ -1774,7 +1774,7 @@ h1::selection {
 
 .cofounder__pic, .home__pic,
 .about__pic {
-  
+  height: auto;
 }
 
 .service__description-text,
