@@ -1774,7 +1774,6 @@ h1::selection {
 
 .cofounder__pic, .home__pic,
 .about__pic {
-  min-width: 20rem;
   object-fit: contain;
 }
 
