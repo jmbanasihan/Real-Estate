@@ -1775,7 +1775,7 @@ h1::selection {
 .cofounder__pic, .home__pic,
 .about__pic {
   height: auto;
-  max-height: fit-content;
+  max-height: 5rem;
 }
 
 .service__description-text,
