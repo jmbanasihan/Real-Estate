@@ -1774,7 +1774,7 @@ h1::selection {
 
 .cofounder__pic, .home__pic,
 .about__pic {
-  max-width: 5rem;
+  width: 100%;
   height: auto;
 }
 
