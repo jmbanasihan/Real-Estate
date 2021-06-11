@@ -27,12 +27,6 @@ This is a landing page based on a figma design created by laaqiq. The design was
 <a><img src="https://img.shields.io/github/followers/jmbanasihan?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<p align="left">
-<a><img src="https://komarev.com/ghpvc/?username=jmbanasihan">
-</a>
-<a><img src="https://img.shields.io/github/followers/jmbanasihan?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-
 <p align='left'>You can check it out<a href="https://zobetto.ml"> here</a>.</p> 
 
 <br><hr>
