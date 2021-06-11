@@ -1,4 +1,4 @@
-![Social banner for jh3y](assets/img/banner.gif)
+![banner](banner.gif)
 <h1 align='center'> Hey there! :wave:</h1>
 <p align='center'>
 Introducing Zobetto Realty Services.
