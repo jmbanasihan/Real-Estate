@@ -3,6 +3,6 @@
 <p align='center'>
 Introducing Zobetto Realty Services.
 </p>
-<p align='center'>For inquiries, contact me via<a href = "mailto:janimargaret09@gmail.com">Gmail</a> or over on <a href="https://www.linkedin.com/in/janiel-banasihan/">LinkedIn</a>.</p>
+<p align='center'>For inquiries, contact me via<a href = "mailto:janimargaret09@gmail.com"> Gmail</a> or over on <a href="https://www.linkedin.com/in/janiel-banasihan/">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
