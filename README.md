@@ -1,0 +1,8 @@
+![Social banner for jh3y](assets/img/banner.gif)
+<h1 align='center'> Hey there! :wave:</h1>
+<p align='center'>
+Introducing Zobetto Realty Services.
+</p>
+<p align='center'>For inquiries, contact me @janimargaret09@gmail.com or over on <a href="https://www.linkedin.com/in/janiel-banasihan/">LinkedIn</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
