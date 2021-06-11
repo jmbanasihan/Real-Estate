@@ -19,7 +19,7 @@ This is a landing page based on a figma design created by laaqiq. The design was
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Demo 
 
-![banner](live-demo.gif)
+![banner](demo.gif)
 
 <p align="left">
 <a><img src="https://komarev.com/ghpvc/?username=jmbanasihan">
